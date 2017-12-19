@@ -21,12 +21,12 @@ body {
             display: grid;
             grid-template-columns: 1000px 1000px;
             grid-template-rows: auto auto;
-            background-color:red;
+            background-color:darkblue;
             padding: 20px;
         }
 
         .grid-container>div {
-            background-color:gray(255, 255, 255, 0.8);
+            background-color:lightblue(255, 255, 255, 0.8);
             text-align: center;
             padding: 30px;
         }
